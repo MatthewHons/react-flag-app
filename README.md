@@ -4,4 +4,6 @@
 - Filter by continent
 - Filter depends on how many you want to display the country
 - Display all the country cards
-Made solo by me
+
+## View the deployment here : https://stirring-torte-192f1a.netlify.app/
+### Made solo by me
